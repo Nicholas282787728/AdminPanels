@@ -1,0 +1,371 @@
+.img-holder {
+    width: 200px;
+    height: 200px;
+    background: #ddd;
+    margin-bottom: 15px;
+    border: 4px solid #ccc;
+}
+.panel-wraper .col-lg-12{
+	background-color:#ddd;
+	padding:10px;
+}
+.title-bar-blue {
+    background-color: #56bddc!important;
+    color:#fff!important;
+}
+.title-bar-blue p{
+	margin:0px;
+	display:inline-block;
+	font-size: 16px;
+}
+.btn-normal2 {
+    float: right;
+    background: transparent;
+    color: white;
+    display: block;
+    border-radius: 3px!important;
+    padding: 3px 15px;
+    margin-top: -5px;
+    border: 1px solid #fff;
+}
+.btn-normal2:hover{
+	color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    
+}
+.btn-normal2:focus{
+    outline: 0px auto -webkit-focus-ring-color;
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+}
+.btn-normal2:active{
+    outline: 0px auto -webkit-focus-ring-color;
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+}
+.btn-normal {
+    float: right;
+    background: transparent;
+    color: white;
+    display: block;
+    border-radius: 3px!important;
+    padding: 3px 15px;
+    margin-top: -5px;
+    border: 1px solid #fff;
+}
+.btn-normal:hover{
+	color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+.btn-green{
+	color: white;
+    font-size: 13px;
+    background: #10b1ac;
+    border: 0;
+    margin-bottom: 10px;
+    padding: 5px 12px 5px 12px;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+
+.btn-green:focus{
+	outline:none;
+}
+.btn-red {
+    color: white;
+    font-size: 13px;
+    background: #d9534f;
+    border: 0;
+    margin-bottom: 10px;
+    padding: 5px 12px 5px 12px;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+.btn-active{
+	color: white;
+    font-size: 13px;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    border-radius: 4px;
+    border: 0;
+    margin-bottom: 10px;
+    padding: 5px 12px 5px 12px;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+.btn-unactivated{
+	color: white;
+    font-size: 13px;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    border-radius: 4px;
+    border: 0;
+    margin-bottom: 10px;
+    padding: 5px 12px 5px 12px;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+.custom-table input[type="text"]{
+	width:100%;
+}
+.first-row{
+	background-color:#dfdfdf;
+}
+.first-row th{
+	font-size:12px;
+	/*font-weight: normal;*/
+}
+.pager {
+   text-align:left!important;
+}
+.pager-wrap .pager-control.active {
+    background: #10b1ac;
+	padding: 2px 7px;
+}
+.panel-primary .panel-heading {
+    border-color: #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    color: #000;
+}
+.panel-footer {
+    display: block!important;
+}
+.adi-head-blue {
+    background-color: #56BDDC !important;
+    padding: 8px;
+    color: #fff !important;
+}
+.adi-head-blue2 {
+    background-color: #56BDDC !important;
+    padding: 15px!important;
+    color: #fff !important;
+}
+.adi-head-orange {
+    background-color: #FF8961!important;
+    padding: 8px;
+    color: #fff !important;
+}
+.adi-head-orange2 {
+    background-color: #FF8961!important;
+    padding: 15px!important;
+    color: #fff !important;
+}
+.adi-panel {
+    border-radius: 0px !important;
+}
+.adi-panel .panel-heading {
+    border-radius: 0px;
+    border: none !important;
+}
+.adi-panel button.btn.btn-default.btn-xs.dropdown-toggle {
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+    padding: 5px 18px;
+    margin-top: -5px;
+}
+.adi-head-per {
+    background-color: #BAA2E0 !important;
+    padding: 8px;
+    color: #fff !important;
+}
+.adi-head-per2 {
+    background-color: #BAA2E0!important;
+    padding: 15px!important;
+    color: #fff !important;
+}
+.adi-head-green {
+    background-color: #10B1AC !important;
+    padding: 8px;
+    color: #fff !important;
+}
+
+.dash-icon .panel a{
+    color: #fff!important;
+    text-decoration: none;
+}
+.dash-icon .panel a:hover{
+    color: #fff!important;
+    text-decoration: none;
+}
+
+.textgroup {width: 100%;}
+#message_ticket {width: 530%;}
+#home button.btn.btn-default.tic-btn.pull-right {width:auto !important;
+max-width:auto !important; }
+/************************* media queries **********************/
+
+@media screen and (min-width: 320px) and (max-width: 575px){
+    .btn-normal{
+        padding: 2px!important;
+        margin-right: -10px;
+        font-size: 10px;
+        margin-top: 4%;
+    }
+    .btn-normal2{
+        font-size: 11px;
+        padding: 3px;
+    }
+    
+    .btn-green,.btn-danger{
+        /*font-size: 10px!important;*/
+    }
+    .btn-warning,.btn-success,{
+        font-size: 12px;
+    }
+    .table-responsive {
+        font-size: 12px;
+    }
+    
+    .list-group-item {
+        padding: 17px 15px;
+        font-size: 12px;
+    }
+    .chat {
+        font-size: 12px;
+    }
+    .panel-body{
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 767px){
+	
+	/*.table-responsive{
+		display:block!important;
+	}*/
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+/********25/6*********/
+    /*.btn-danger {
+        padding: 6px 5px 7px 5px!important;
+    }*/
+}
+@media screen and (min-width: 1200px) and (max-width: 1275px){
+    
+    .font-small {
+        font-size: 10px!important;
+    }
+}
+.dataTables_info
+{
+    font-size: 14px !important;
+    padding-left: 15px;
+}
+
+
+.pagination 
+{
+    display: inline-block;
+    padding-left: 0;
+    border-radius: 4px;
+    float: right;
+    padding-right: 15px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.pagination>.active>a{
+
+     background-color: #337ab7;
+     color:#fff;
+}
+#dataTables-example_info,#dataTables-example_paginate{
+    display: none !important;
+}
+table tr th{text-align: center;}
+/********* 7 Feb ************/
+.creatUserBottom  .btn-grey, .creatUserBottom  .btn-green{font-size: 11px;}
+.creatUserBottom div{display: inline-block;}
+.tablesorter.table.dataTable thead tr th{font-weight: 700;}
+button.btn-green{border-radius: 0;font-size: 11px;padding: 6px 12px 9px 12px;}
+@media(max-width: 767px){
+    .medconnex-panel button{width: 100%;margin-bottom: 5px;}
+    .dataTables_wrapper label, div#dataTables-example_length label{display: flex;align-items: center;margin-bottom: 5px;}
+    .dataTables_wrapper label select.form-control, div#dataTables-example_length label select.form-control{margin: 0 10px;}
+    .dataTables_wrapper label input.form-control, div#dataTables-example_length label input.form-control{margin-left: 1%;width: 76%;}
+    .dataTables_wrapper{float: left;width: 100%;padding: 10px;}
+    div.creatUserBottom{display: block;float: unset;}
+    /*.creatUserBottom button{width: 100%;margin-bottom: 0px;}*/
+    /*.panel .pull-right{float: unset !important;}*/
+    #affilitePartners .modal-body button.btn{margin-bottom: 5px;}
+}
+/********* 8 Feb *************/
+.modal-footer{text-align: left;}
+.info-box-detail p{
+    text-align: center;
+}
+.fc-time {
+    display: none;
+}
+.fc-row .fc-content-skeleton, .fc-row table{
+    height: 100%;
+}
+tr:first-child>td>.fc-day-grid-event {
+    margin-top: -21px;
+}
+.fc-event-container .fc-event {
+    width: 50px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    font-size: 20px;
+    left: 0;
+}
+.calendarmodal.in{
+    display: flex !important;
+    align-items: center;
+}
+
+.email li {
+    list-style: none;
+}
+#dataTables-example_length {
+    display: none;
+}
+
+
+
+.modal-footer button.btn.canclegeneral{
+    margin-bottom: 10px;
+}
+
+.btn-green
+{
+        margin-right: 5px;
+}
+/*#example_filter{margin-top: -44px;}*/
+@media(max-width: 767px){
+    .fc-event-container .fc-event{width: 25px;height: 25px;font-size: 14px;}
+    .table-responsive .paginations{margin-bottom: 0;}
+    .box {margin-bottom: 5px;}
+    div.creatUserBottom-2{
+        float: left;
+        display: flex;
+    }
+    .heading-responsive{
+        padding-top: 10px;
+        padding-top: 10px;
+        text-align: left;
+    }
+    button.btn-green{
+        display: inline-block;
+    }
+    button.btn-grey{
+        font-size: 11px;
+        padding: 6px 12px 9px 12px;
+    }
+    .m-b-10, .form-control{margin-bottom: 10px;}
+
+}

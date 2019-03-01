@@ -1,0 +1,121 @@
+
+
+
+
+.block.typeOfServices ul li a {
+
+    background: white;
+
+    display: inline-block;
+
+    text-align: center;
+
+    width: 100%;
+
+}
+
+
+
+@media only screen and (max-width: 1199px)
+
+{
+
+	.typeOfServices{}
+
+	.typeOfServices ul{}
+
+	.typeOfServices ul li{ width: 50% !important }
+
+	.profiluserdomnil{display: none !important;}
+
+
+
+}
+
+
+
+@media only screen and (max-width:991px)
+
+{
+
+	#sign-up{width: 90% !important;}
+
+	#log-in{width: 90% !important;}
+
+	.modal-body{ height:auto !important }
+
+	.flashScreen{text-align: center !important;}
+
+	.btn.btn-lg{margin-top: 30px;margin-left: 0px;}
+
+	.typeOfServices{}
+
+	.typeOfServices ul{}
+
+	.typeOfServices ul li{ width: 100% !important }
+
+	.mainbox{width: 600px;margin-left: 0;margin-top: 0;}
+
+
+
+}
+
+@media only screen and (max-width:767px)
+
+{
+
+	.mainbox{width: 90% !important;
+
+margin-left: 5% !important;
+
+margin-top: 40px !important;}
+
+.fileupload.fileupload-new label{ width: 100% !important; text-align: center;}
+
+.uploadSectionWrap{ float: left;
+
+text-align: center;
+
+width: 100%;}
+
+	}
+
+ 
+
+
+
+}
+
+
+
+@media only screen and (max-width:360px)
+
+{
+
+	.feature-img {
+
+    width: 100% !important;
+
+    height: 186px !important;
+
+	}
+
+
+
+	.quick-menu{margin-left: 1em !important;}
+
+
+
+}
+
+
+
+@media (min-width:320px)  and (max-width: 359px)
+
+{
+
+	.feature-img {width: 180px !important;
+
+height:180px !important;}
+
+}

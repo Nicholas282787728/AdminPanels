@@ -1,0 +1,346 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-color:#edefed;font-family: 'Century Gothic';}
+img
+{
+    max-width:100%;
+    height:auto;
+}
+.d1 { text-align:center; margin:50px 0;color:#6d6f75;}
+.d2 { background-color:#FFF; margin-left:60px; height:auto; margin-right:60px}
+.img1   { height:250px; width:250px;}
+.cls1   { text-align:center; padding:30px;}
+
+.d3 { background-color:#FFF;  min-height:950px;  margin:60px;}
+
+
+table, th, td {
+    
+    border-collapse: collapse; margin:30px;
+}
+th, td {
+    padding: 15px;
+}
+th { font-size:32px;}
+td  { font-size:24px;}
+.cls2   { text-align:center; font-size:36px;word-break: break-all;}
+
+.d3 { background-color:#FFF; margin-left:60px; min-height:250px; margin-right:60px;padding: 30px;text-align: center;}
+.cls3   { font-size:24px;}
+.cls3   p{  font-size:20px;display: inline-block;word-break: keep-all;text-align: justify;}
+li  { font-size:18px; color:#404041;}
+
+.cls1 ol {
+
+    display: inline-block;
+    text-align: left;
+
+}
+.cls1 ol li {
+
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    word-break: keep-all;
+
+    text-align: justify;
+}
+.cls1 span{}
+.cls1 span img{ max-width:100%; height:auto;}
+
+
+.cls1-passage1
+{
+}
+.d1 h2 {
+    font-weight: bold;
+}
+.cls1-passage1 h1 {
+    font-weight: bold;
+    font-size: 35px;
+    word-break: break-all;
+}
+.cls1-passage1 h3 {
+    font-weight: normal;
+    font-size: 25px;
+    margin: 10px 0px;
+    display: inline-block;
+    width: 100%;
+    word-break: keep-all;
+    text-align: justify;
+}
+.cls2 p {
+    margin: 0px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #2e2e2f;
+    word-break: break-all;
+}
+/*-----------------------------------psd2-------------------*/
+.d1 h2 {
+    font-weight: bold;
+    word-break: break-all;
+}
+.d4 { height:auto; background-color:#00afaa; margin:30px 100px;color:#FFF;}
+.d4 h3{ padding:10px 10px;}
+.cls4   {}
+.cls5   { padding:0px 80px;display: inline-block;float: left;width: 100%;}
+.d5 { background-color:#FFF; margin-left:60px; /*min-height:400px;*/ margin-right:60px;}
+.D7 { background-color:#FFF; margin-left:60px; /*min-height:1700px;*/ margin-right:60px;margin-top: 20px;}
+.d6 { height:auto; background-color:#e03d80; margin:30px 100px;color:#FFF;}
+.d6 h3{ padding:10px 10px;}
+.cls6   { margin:0 90px; overflow:hidden;}
+.cls7   { height:auto; background-color:#00afaa; margin:0 90px;color:#FFF;}
+.cls7 h3{ padding:10px 10px;}
+.cls8   { /*height:37px;*/ margin:0 90px;}
+.cls8 p { margin:15px 5px;word-break: keep-all;text-align: justify;}
+.cls9   { background-color:#00afaa; color:#FFF}
+.cls10  { background-color:#e03d80; color:#FFF}
+.col-md-12.col-sm-12.col-xs-12.form-group.d6cls6 {
+
+    padding: 0px !important;
+
+}
+
+.d6cls6 > .form-control
+{
+    height:auto !important;
+    width:100% !important
+}
+.D7 form {
+
+    display: inline-block;
+
+}
+
+
+/*----------------------------------------psd3-----------------*/
+.d7 { background-color:#FFF; margin-left:60px; margin-right:60px;   height:auto;  margin-bottom: 20px;
+    display: inline-block;
+}
+
+.cls11  { }
+.cls12  { color:#404041; font-size:25px;}
+.cls13 img  {     max-width: 100%;
+    height: auto;}
+.cls14  { margin:40px;}
+.cls14 ol {padding-left: 20px;margin-top: 20px;}
+.cls14 ol li {}
+.cls15  {margin: 25px 70px; text-align:left;}
+.cls15 li p {
+    font-size: 18px;
+    margin: 0px;color:#404041;}
+    
+    .cls16 {
+    text-align: left;
+    display: inline-block;
+}
+.cls16  { margin: 0;
+    font-size: 30px;
+    color: #404041;
+    text-transform: capitalize;}
+    /*------------Responsive -----*/
+.cls17 {display: inline-block;
+        text-align: left;
+        width: 850px;}
+
+
+/*---------responsive---------*/
+@media only screen and (max-width:1199px)
+{
+    /*----------psd2--------------*/
+    .d5 {
+
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    display: inline-block;
+
+}
+    .cls4 {
+    width: 50% !important;
+}
+.cls5 {
+    padding: 0px;
+    width: 100%;
+}
+.d4 {
+    height: auto;
+    background-color: #00afaa;
+    margin: 0px 8px;
+    color: #FFF;
+}
+.d6 {
+    height: auto;
+    background-color: #e03d80;
+    margin: 0px 8px;
+    color: #FFF;
+}
+.cls6 {
+    margin: 0px;
+    overflow: hidden;
+}
+.cls7 {
+    margin: 0px 8px;
+}
+.cls8 {
+    margin: 0 8px;
+}
+.D7 {
+
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+/*-------------------*/
+}
+
+
+@media only screen and (max-width:991px)
+{
+    /*----- psd3----------*/
+.d7 {
+    background-color: #FFF;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: auto;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%;
+}
+.d3 {
+    background-color: #FFF;
+    min-height: auto;
+    padding: 30px;
+    margin: 0px;
+}
+.cls2 {
+
+    text-align: center;
+    font-size: 36px;
+    word-break: break-all;
+    margin: 30px 0px;
+
+}
+.cls14 {
+
+    margin: 0px;
+
+}
+.cls17 {
+
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+
+}
+.cls15 {
+    margin: 0px;
+    text-align: left;
+    float: left;
+}
+}
+
+
+
+@media only screen and (max-width:767px)
+{
+    
+    /*--------Psd1----------*/
+    .cls1-passage1 h3 {
+    font-size: 18px;
+}
+    .cls3 p {
+    font-size:18px;
+    display: inline-block;
+    word-break: keep-all;
+}
+    .cls1-passage1 h1 {
+    font-weight: bold;
+    font-size: 25px;
+}
+    .cls2 p {
+
+    margin: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #2e2e2f;
+
+}
+.cls2 {
+
+    margin-top: 40px;
+
+}
+    .d2 {
+
+    background-color: #FFF;
+    margin-left: 0px;
+    height: auto;
+    margin-right: 0px;
+
+}
+    .d3 {
+
+    background-color: #FFF;
+    margin-left: 0px;
+    min-height: auto;
+    margin-right: 0px;
+    padding: 15px;
+    height: auto;
+    margin-bottom: 0px;
+
+}
+/*-----------psd2--------------*/
+
+.cls4 {
+
+    width: 100% !important;
+
+}
+.d1 h2 {
+    font-weight: bold;
+    font-size: 20px;
+      word-break: break-all;
+}
+.d4 h3 {
+    padding: 10px 10px;
+    font-size: 18px;
+}
+.d6 h3 {
+    padding: 10px 10px;
+    font-size: 18px;
+}
+/*------Psd3---------*/
+
+.cls16 h2 {
+
+    font-size: 24px;
+    display: inline;
+    margin: 0px;
+
+}
+
+
+}
+
+
+@media only screen and (max-width:600px)
+{
+    /*----- psd3----------*/
+    .cls17 > .col-md-6.col-sm-6.col-xs-6 {
+
+    width: 100% !important;
+
+}
+
+.cls12 {
+
+    color: #404041;
+    font-size: 14px;
+
+}
+
+}

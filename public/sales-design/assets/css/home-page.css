@@ -1,0 +1,149 @@
+#ticket-head
+{
+background: #ffffff;
+background-repeat:no-repeat;    
+}
+#ticket-head .sup-head
+{
+padding-left: 65px;
+padding-right: 119px;   
+}
+#ticket-head .support-img img
+{
+width:250px;
+}
+.user-log h4
+{
+
+   color:#232323;
+}
+#ticket-head .user-log .sign-in-btn
+{
+color: #fff;
+    font-size: 18px;
+    border-radius: 0px;
+    border-color:#10B1AC;
+    background: #10B1AC;
+}
+#ticket-mangement 
+{
+background:	#EDEDED;
+background-repeat:no-repeat;	
+border-top:1px solid #D0CCCC;
+}
+#ticket-mangement .wel-sup
+{
+	border:1px solid #D0CCCC;
+    box-shadow: 2px 2px 3px #D0CCCC;
+    background: #fff;
+    background-repeat: no-repeat;
+    padding: 18px 20px 155px 20px;
+}
+#ticket-mangement .new-ticket h3
+{
+font-weight:normal;
+}
+#ticket-mangement .new-ticket .tic-btn
+{
+        margin-top: 23px;
+    color: #fff;
+    font-size: 18.7px;
+    border-radius: 0px;
+    border-color: #10B1AC;
+    background: #10B1AC;
+
+}
+#ticket-mangement .status-ticket .par-w
+{  
+    color:#616161;  
+
+    text-align:left;
+    font-size:16px;
+width:75%;
+}
+
+#ticket-mangement .status-ticket .status-btn 
+{   
+ margin-top: 3px;
+    color: #fff;
+   	font-size:18px;
+    border-radius: 0px;
+    border-color:#FE8860;
+    background: #FE8860;	
+}
+#footer 
+{
+background: #EEECEE;
+background-repeat:no-repeat;    
+}
+#footer .copy-right
+{
+   color:#616161;  
+	    text-align: center;
+    padding-top: 20px;
+        padding-bottom: 45px;
+}
+
+
+@media (max-width: 767px) and (min-width: 240px)
+{	
+        #ticket-head .support-img img {
+    width: 114px;
+}
+#ticket-head .sup-head {
+    padding-left: 0px; 
+     padding-right: 0px; 
+}
+.user-log
+{
+    padding-right: 28px;
+}
+.user-log h4
+{
+ font-size: 14px;   
+}
+
+
+#ticket-head .user-log .sign-in-btn {
+
+    font-size: 14px;
+}
+#ticket-mangement .new-ticket .tic-btn 
+{
+    margin-top: 0px;
+	float:left !important;
+}
+#ticket-mangement .status-ticket
+{
+    padding-top: 30px;
+}
+#ticket-mangement .status-ticket .par-w {
+     text-align:justify;
+    width:unset; 
+}
+
+#ticket-mangement .status-ticket .status-btn {
+    margin-top: 0px;
+	float:left !important;
+}
+#ticket-mangement .wel-sup
+{
+	padding-bottom:50px;
+}
+}
+ @media (max-width: 980px) and (min-width: 768px)
+ {
+#ticket-head .support-img img {
+    width: 162px;
+}
+	 #ticket-head .sup-head {
+   padding-left:unset; 
+    padding-right: 26px;
+}
+
+#ticket-mangement .status-ticket .par-w {
+    width: 64%;
+}
+
+ 
+}

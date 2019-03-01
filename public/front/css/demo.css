@@ -1,0 +1,20 @@
+/* Moving Boxes demo CSS */
+
+
+/* Moving Boxes title image wrapper */
+#title { 
+  text-align: center; 
+}
+#title img { 
+  border: 0; 
+}
+
+/* Panel images */
+.mb-inside img { width: 100%; }
+.mb-inside img {
+    margin-bottom: 11px;
+}
+.mb-inside img + p {
+    font-size: 13px;
+        line-height: 1.4;
+}

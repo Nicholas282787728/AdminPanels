@@ -1,0 +1,29 @@
+ .label-success{
+    background: #69C56F !important;
+    border-color: #69C56F !important;
+    
+}
+.btn-info {
+    background-color: #56BDDC;
+    border-color:#56BDDC;
+}
+.btn-danger {
+    background-color:#FE8860;
+    border-color: #FE8860;
+}
+select {
+    width: 95px;
+	color:#BCBCBC;
+	border-color:#EEEEEE;
+}
+.box {
+    border: 2px solid #E2E2E2;
+}
+.table th {
+ 
+    background: #DFDFDF;
+}
+.table td{
+ 
+    border-color:#F2F2F2;
+}

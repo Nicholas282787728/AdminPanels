@@ -1,0 +1,595 @@
+
+img {
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar-top-links li a{padding:18px 20px;height:auto;}
+.navbar-top-links li{    float: left;}
+
+.medconnex1{}
+.medconnex-right{}
+.medconnex-right form{}
+.medconnexgrp{}
+.medconnexgrp input{}
+.medconnex-right {
+    margin-bottom: 15px; 
+}
+.medconnex-panel{}
+.medconnex-panelheading{text-align: right;}
+.medconnex-panelheading button{padding: 6px !important;}
+.medconnex-panelbody{}
+.medconnex-tab{}
+.medconnex-pane{}
+.medconnex2{}
+.medconnex2-panel{}
+.medconnex2-heading{}
+.medconnex2-body{}
+.medconnex2-listgrp{}
+.medconnex3-table{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;}
+#dataTables-example_length{}
+#dataTables-example_length label{display: inline-block;
+max-width: 100%;
+margin-bottom: 5px;
+font-weight: 400;
+font-size: 14px;
+text-transform: capitalize;}
+#dataTables-example_filter{}
+#dataTables-example_filter label{display: inline-block;
+max-width: 100%;
+margin-bottom: 5px;
+font-weight: 400;
+font-size: 14px;
+text-transform: capitalize;}
+
+ 
+#dataTables-example_length label select {
+    height: 30px;
+    line-height: 30px;
+    width: 80px !important;
+    border-radius: 0px !important;
+    margin-left: 5px;
+margin-right: 5px;
+} 
+#dataTables-example_filter label input[type="search"] {
+    -webkit-appearance: none;
+    border-radius: 0px !important;
+    margin-left: 10px;
+}
+.first-row{}
+.first-row th{font-size: 12px;
+font-weight:bold;
+text-transform: capitalize;}
+.gradeX td{font-size: 14px !important;
+font-weight: normal;}
+.gradeX td > .btn-group{width: 100% !important;
+text-align: center;}
+#dataTables-example_info{font-size: 14px !important;}
+#dataTables-example_paginate{}
+#dataTables-example_paginate ul{ margin-top: 0px; }
+.medconnex4a-panel{}
+.medconnex4a-panel .col-sm-6{width: 50% !important;
+float: left;
+display: inline-block;
+margin-bottom: 10px;}
+
+.medconnex3-panelbody{}
+.medconnex3-panelbody button{width: 180px;
+margin: 10px;
+display: inline-block;
+float:none !important;
+height: 30px;}
+.medconnex3-panelbody form{width: 100%;
+display: inline-block;}
+.medconnex5{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action: auto;}
+.medconnex5 thead tr th{}
+.medconnex5 tbody tr td{}
+.medconnex6{
+    width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action: auto;
+}
+.medconnex6 thead tr th{}
+.medconnex6 tbody tr td{}
+.medconnex6-panel
+{
+
+}
+
+.medconnex6-body{}
+.medconnex6-left{}
+.medconnex6-grp{}
+.medconnex6-grp label{}
+.medconnex6-inputgrp{}
+.medconnex6-inputgrp select{}
+
+.medconnex7{
+    width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action: auto;
+}
+.medconnex7 thead tr th{}
+.medconnex7 tbody tr td{}
+.medconnex5-blue{}
+.medconnex5-blueright{}
+#web_tos{width: 100%;}
+.medconnex9{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex10-grp{ width: 100%; }
+.medconnex10-inputgrp{width: 100%;}
+.medconnex11{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action: auto;}
+.medconnex-modal{width: 150px;
+display: inline-block;
+margin-bottom: 10px;
+margin-top: 10px;}
+.medconnex12-left{width: 100%;}
+.medconnex12-grp{width: 100%;}
+.medconnex12-grp label{display: inline-block;
+float: left;
+margin-right: 10px;
+padding-top: 5px;}
+.medconnex12-inputgrp{}
+.medconnex12-inputgrp select{width: 200px !important;}
+.medconnex13{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action: auto;}
+.medconnex13-modal{width: 90%;}
+.medconexx-userprofile{
+    position: relative !important;
+    top: 0px;
+   }
+.medconexx-userprofile a {
+    height: 100% !important;
+    padding: 28px !important;
+}
+
+.feature-medconnex{display: inline-block;
+    float: left;
+    width: 100%;
+transition: 1s all;
+text-align: center;}
+/*
+Before Editing
+
+.feature-img{ width: 250px !important;
+height: 250px !important;
+    display: inline-block;
+    overflow: hidden;
+    background-color: transparent !important;
+border-radius:100%  !important;
+text-align: center;
+border: 1px solid;}
+
+*/
+.feature-img{ width: 200px !important;
+height: 200px !important;
+    display: inline-block;
+    overflow: hidden;
+    background-color: transparent !important;
+border-radius:100%  !important;
+text-align: center;
+border: 1px solid;}
+.feature-img img{max-width: 100%;
+    height: 100%;
+    width: 100%;
+}
+.feature-medconnex strong{
+display: block;
+font-family: 'Montserrat', sans-serif;
+font-size: 18px;
+line-height: 30px;
+letter-spacing: normal;
+font-weight: bold;
+color: #2D2D2D;
+margin-bottom: 5px;
+}
+
+.feature-medconnex:hover .feature-img{border-radius:100%  !important;
+z-index: +9999;
+background-color: transparent;
+-moz-transform: rotate(360deg) !important;
+-webkit-transform: rotate(360deg) !important;
+-ms-transform: rotate(360deg) !important;
+transform: rotate(360deg) !important;
+transition: 1s all;}
+.navbar-top-links .dropdown-menu li a div{display: inline-block;}
+.navbar-top-links .dropdown-menu li {
+    width: 100%;
+}
+
+.medconnex15{}
+.medconnex15 thead{}
+.medconnex15 thead tr{}
+.medconnex15 thead tr th{width: auto !important;}
+.medconnex15 tbody{}
+.medconnex15 tbody tr{}
+.medconnex15 tbody tr td{width: auto !important;}
+.medconnex16profile{}
+.medconnex16profile li{}
+.medconnex16profile li a{}
+.medconnex16profile li a:hover{}
+.medconnex16user
+{height: 84px !important;
+padding-top: 30px !important;
+}
+
+.medconnex-visibilty{}
+.logo-upload{}
+.upload111{}
+.upload112{}
+.medconnex17{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex17 thead{}
+.medconnex17 thead tr{}
+.medconnex17 thead tr th{width: auto !important;}
+.medconnex17 tbody{}
+.medconnex17 tbody tr{}
+.medconnex17 tbody tr td{/*width: auto !important;*/}
+.medconnex18{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex18 thead{}
+.medconnex18 thead tr{}
+.medconnex18 thead tr th{width: auto !important;}
+.medconnex18 tbody{}
+.medconnex18 tbody tr{}
+.medconnex18 tbody tr td{width: auto !important;}
+.medconnex19{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex19 thead{}
+.medconnex19 thead tr{}
+.medconnex19 thead tr th{width: auto !important;}
+.medconnex19 tbody{}
+.medconnex19 tbody tr{}
+.medconnex19 tbody tr td{width: auto !important;}
+.medconnex20{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex20 thead{}
+.medconnex20 thead tr{}
+.medconnex20 thead tr th{width: auto !important;}
+.medconnex20 tbody{}
+.medconnex20 tbody tr{}
+.medconnex20 tbody tr td{width: auto !important;}
+.medconnex21{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex21 thead{}
+.medconnex21 thead tr{}
+.medconnex21 thead tr th{width: auto !important;}
+.medconnex21 tbody{}
+.medconnex21 tbody tr{}
+.medconnex21 tbody tr td{width: auto !important;}
+.medconnex22{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex22 thead{}
+.medconnex22 thead tr{}
+.medconnex22 thead tr th{width: auto !important;}
+.medconnex22 tbody{}
+.medconnex22 tbody tr{}
+.medconnex22 tbody tr td{width: auto !important;}
+.medconnex23{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex23 thead{}
+.medconnex23 thead tr{}
+.medconnex23 thead tr th{width: auto !important;}
+.medconnex23 tbody{}
+.medconnex23 tbody tr{}
+.medconnex23 tbody tr td{width: auto !important;}
+.medconnex24{width: 100% !important;
+max-width: 100% !important;
+margin-bottom: 20px;
+touch-action:auto;}
+.medconnex24 thead{}
+.medconnex24 thead tr{}
+.medconnex24 thead tr th{width: auto !important;}
+.medconnex24 tbody{}
+.medconnex24 tbody tr{}
+.medconnex24 tbody tr td{width: auto !important;}
+#home button.btn.btn-default.status-btn.pull-right{margin-bottom: 10px !important;}
+#home button.btn.btn-default.tic-btn.pull-right{margin-bottom: 10px !important;}
+
+/*-------responsive mobile--------*/
+
+@media only screen and (max-width:1164px)
+{
+.adi-head-orange2  {padding: 6px!important;font-size: 12px;}
+.first-row th {
+    font-size: 9px;}
+
+.table tbody tr td {
+    font-size: 11px !important;
+}
+.edit_ticket {padding: 5px 6px;font-size: 7px;}
+.rdbtn       {padding: 5px 6px;font-size: 7px;} 
+}
+
+/***********25/6/2018*********/
+@media only screen and (max-width:940px)
+{
+.r_right {float: none;width: 100%;}
+.r_right1 {float: none;width: 100%;}
+.medconnex5-formgrp {text-align:left !important;}
+.edit_ticket {position: relative;
+    bottom: 3px;}
+}
+
+/***********25/6/2018*********/
+
+
+@media only screen and (max-width:988px)
+{
+#home button.btn.btn-default.tic-btn.pull-right {float: none !important;
+margin-top:0px !important; }
+
+}
+
+@media only screen and (max-width:767px)
+{
+.medconnex5-formgrp {
+    margin-top: 13px;
+}
+#home button.btn.btn-default.status-btn.pull-right{ width: 100% !important; }
+#home button.btn.btn-default.tic-btn.pull-right{ width: 100% !important;; }
+	#dataTables-example_wrapper{width: 657px;}
+	.medconnex3-panelbody button {
+    width: 87%;
+    margin: 10px;
+    display: inline-block;
+    float: left;
+    height: 30px;
+}
+.medconnex4a-panel .col-sm-6{width: 100% !important;}
+#dataTables-example_length{}
+#dataTables-example_length label {padding: 10px !important;float: left !important;width: 100%;}
+#dataTables-example_filter{ float:left !important;width: 100%; }
+#dataTables-example_filter label{padding: 10px !important;float: left;}
+#dataTables-example_filter label input[type="search"] {/*margin-left: 0px;*/ margin-top: 10px;}
+.medconexx-userprofile{
+    position: relative !important;
+    top: -4px;
+}
+.navbar-top-links .dropdown-menu li a, .navbar-top-links .dropdown-menu li a{ height:auto;}
+.navbar-top-links li {
+    float: left;
+    height:auto;
+}
+.medconexx-userprofile a {
+    height: 80px !important;
+padding: 24px !important;
+top: 4px;
+}
+
+.nav.navbar-top-links.navbar-right {
+   /* height: 91px;*/
+   height: auto;
+    width: 100% !important;
+}
+.sidebar-nav.navbar-collapse.collapse.in {
+    width: 100% !important;
+    text-align: center !important;
+}
+.sidebar ul li a{text-align: center !important;}
+#notifications li{ width: 100%; height:auto; }
+.navbar-top-links .dropdown-menu li{ width: 100%; }
+.navbar-top-links li a {
+    height: auto;
+    font-size: 12px;
+}
+.navbar-top-links li a {
+    padding: 19px 16px;
+    height: auto;
+}
+.edit_ticket {position: relative;
+    bottom: 0px;}
+}
+
+@media only screen and (max-width: 870px)
+{
+   .fc-today-button{ width: 50px; }
+   .fc-center { width: 100%; display: inline-block !important; text-align: center !important; margin-top: 10px; margin-bottom: 10px;}
+   .fc-center h2{ width: 100% !important;  }
+   .tabcharts{ width: auto; }
+   .adi-head-blue2{}
+   .medconnex-tabcenter
+   {
+    display: inline-block !important;
+float: left !important;
+margin-top: 10px;
+width: 100%;
+text-align: center;
+}
+.content-bluegrp{height: 100px !important;}
+.tabcharts_2{ width: auto !important; }
+#fliter_form{ display: inline-block; text-align: center; }
+#fliter_form select{}
+
+.doctext label  {font-size: 11px;}
+.navbar-top-links li a {
+    padding: 19px 12px;}
+}
+
+@media only screen and (max-width:657px)
+{
+	.medconnex-panelheading {
+    text-align: left;
+}
+
+.medconnex-panelheading button {
+    padding: 6px !important;
+width: 100%;
+margin-top: 10px;
+}
+#message_ticket {width: 330%;}
+
+}
+
+
+
+
+@media only screen and (max-width:576px)
+{
+	.navbar-top-links li .count {
+    top: 3px !important;
+    right: 10px !important;
+    font-size: 8px !important;
+}
+
+.medconexx-userprofile a {
+    height: 100% !important;
+    padding: 10px !important;
+    top: 4px;
+}
+.nav.navbar-top-links.navbar-right {
+    height: auto;
+}
+.navbar-top-links li a {
+    padding: 15px 20px;
+    height: auto;
+}
+.medconnex16user {
+    height: 42px !important;
+    padding-top: 5px !important;
+}
+
+
+
+}
+
+@media only screen and (max-width:575px)
+{
+    .on_off{
+    margin-top: 0px !important;    }
+    
+}
+
+@media only screen and (max-width: 480px)
+{
+    #dataTables-example_filter label input[type="search"] {
+    margin-left: 0px;
+    margin-top: 10px;
+    width: 126px;
+}
+	.medconnexgrp {
+    width: 100%;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+/*************25/6/2018***********/
+.btn-green {font-size: 11px;padding: 6px 8px 6px 6px;}
+.pull-right {font-size: 13px;}
+.on_off {
+    margin-top: 2px !important;
+}
+.btn-grey {font-size: 9px;}
+}
+@media only screen and (max-width: 457px)
+{
+    .tabcharts {
+    width: 100%;
+    margin-bottom: 5px;
+margin-top: 5px
+}
+.content-bluegrp {
+    height: 230px !important;
+}
+.tabcharts_2 {
+    width: 100% !important;
+    margin-bottom: 5px;
+margin-top: 5px
+}
+.medconnex-tabcenter
+   {}
+   .medconnex-tabcenter button
+   {
+    margin-bottom: 10px;
+   }
+
+   #fliter_form {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px !important;
+}
+.fc-toolbar .fc-left {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.fc-toolbar .fc-right{
+ width: 100%;
+    margin-bottom: 10px;
+
+}
+
+
+}
+@media only screen and (max-width:400px)
+{
+    .medconnex5-blue{height: 60px;}
+.medconnex5-blueright{width: 100%;}
+.navbar-top-links .dropdown-messages,
+.navbar-top-links .dropdown-tasks,
+.navbar-top-links .dropdown-alerts {
+width: 220px;
+  min-width: 0;
+}
+#salesClick{width:98px;}
+#ratingClick{width:128px;}
+
+/**************25/6/2018**********/
+.panel-body {
+    padding: 4px;
+}
+.btn-green {float:none;display:block;}
+.b_new   {width: 100%;text-align: center;}
+}
+
+@media only screen and (max-width: 320px)
+{
+	.medconnex-panelheading button {
+    padding: 6px !important;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.medconnex16profile {
+    margin-left: -90px !important;
+}
+
+#messages_list {
+    margin-left: -50px;
+}
+.navbar-top-links .dropdown-messages,
+.navbar-top-links .dropdown-tasks,
+.navbar-top-links .dropdown-alerts {
+width: 180px;
+  min-width: 0;
+}
+.navbar-top-links .dropdown-menu li a, .navbar-top-links .dropdown-menu li a{ height:auto;padding: 5px;}
+}

@@ -1,0 +1,41 @@
+.active{
+    display: block;
+}
+
+.inactive{
+    display: none;
+}
+
+.option-content-partner{
+    cursor: pointer;
+}
+
+.opcion-content-Market{
+    cursor: pointer;
+}
+
+.opcion-content-Requirements{
+    cursor: pointer;
+}
+
+.opcion-content-Application{
+    cursor: pointer;
+}
+
+.option-active{
+    background: #337ab7;
+}
+
+.option-inactive{
+    background: #c9c9c9;
+    color: black;
+}
+
+.sub-option-active{
+    background: #e03d80;
+}
+
+.sub-option-inactive{
+    background: #D9D9D9;
+    color: black;
+}
